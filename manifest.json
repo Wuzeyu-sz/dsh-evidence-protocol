@@ -1,7 +1,7 @@
 {
   "id": "dsh-evidence-protocol",
-  "name": "DSH 证据协议技能包 / DSH Evidence Protocol Skills",
-  "version": "v0.2.0",
+  "name": "证据协议：结论前的六道关卡 / Evidence Protocol: Six Gates Before a Conclusion",
+  "version": "v0.2.1",
   "description": "下结论前的六道关卡：度量自检、对照稳健性、事件级 R、证伪后落点清理、派生字段一致性、审计报告复核。 / Six gates before a conclusion: metric self-test, comparison robustness, event-level R, post-falsification cleanup, derived-field consistency, audit-report review.",
   "author": {
     "name": "Wuzeyu-sz",
